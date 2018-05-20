@@ -1,2 +1,2 @@
-# spiritanimal
-Animated journey to find your spirit animal. 
+# switchboard
+A variety of functioning switches, levers, buttons and more.
